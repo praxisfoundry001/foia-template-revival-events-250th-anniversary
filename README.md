@@ -30,6 +30,6 @@ This artifact belongs with Praxis Foundry civic/public-law tools concerning publ
 
 ## Citation / DOI
 
-Zenodo DOI: DOI PENDING
+Zenodo DOI: https://doi.org/10.5281/zenodo.19890243
 
 PDF available via DOI link once published.
